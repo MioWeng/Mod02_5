@@ -1,0 +1,128 @@
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.dll.config
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.pdb
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.exe
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.exe.config
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.rsp
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.exe
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.exe.config
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.rsp
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.AppContext.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Collections.Immutable.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Console.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Compression.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.FileSystem.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Pipes.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Reflection.Metadata.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.AccessControl.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Claims.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Principal.Windows.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.ValueTuple.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XPath.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.exe
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.exe.config
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.rsp
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\VBCSCompiler.exe
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\roslyn\VBCSCompiler.exe.config
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Newtonsoft.Json.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Net.Http.Formatting.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.WebHost.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Newtonsoft.Json.xml
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Net.Http.Formatting.xml
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.xml
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.WebHost.xml
+C:\U2144\Mod02\Mod02_5\Mod02_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\U2144\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csprojAssemblyReference.cache
+C:\U2144\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csproj.CoreCompileInputs.cache
+C:\U2144\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csproj.CopyComplete
+C:\U2144\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.dll
+C:\U2144\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.pdb
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.dll.config
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Mod02_5.pdb
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.exe
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.exe.config
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csc.rsp
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.exe
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.exe.config
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\csi.rsp
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.AppContext.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Collections.Immutable.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Console.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Compression.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.FileSystem.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.IO.Pipes.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.AccessControl.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Claims.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Security.Principal.Windows.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.ValueTuple.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XPath.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.exe
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.exe.config
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\vbc.rsp
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\VBCSCompiler.exe
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\roslyn\VBCSCompiler.exe.config
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Newtonsoft.Json.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Net.Http.Formatting.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.WebHost.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Newtonsoft.Json.xml
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Net.Http.Formatting.xml
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.xml
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\System.Web.Http.WebHost.xml
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csproj.CoreCompileInputs.cache
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csproj.CopyComplete
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.dll
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.pdb
+D:\桌面檔案\程式設計基礎概論\自己課內容\U2144 進階(自己)\Mod02\Mod02_5\Mod02_5\obj\Debug\Mod02_5.csprojAssemblyReference.cache
